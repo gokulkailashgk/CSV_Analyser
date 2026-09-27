@@ -272,13 +272,7 @@ Generate Insights
 
 ## 👩‍💻 Author
 
-### Varshitha Pavuluri
-
-Aspiring **Data Analyst** with an interest in data analysis, visualization, Python, SQL, and Business Intelligence.
-
-* 💼 GitHub: [Varshitha Pavuluri](https://github.com/varshi99)
-* 🌐 Portfolio: [Portfolio](https://varshitha-pavuluri.netlify.app/)
-
+### Gokul Kailash
 ---
 
 ## ⭐ Support
